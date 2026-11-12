@@ -226,6 +226,11 @@ cd penguin-install
 
 </details>
 
+### 一键部署
+
+<a href="https://repocloud.io/details/PenguinHarness/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/penguinharness"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ### Chrome 扩展（可选）
 
 [PenguinHarness Browser](https://chromewebstore.google.com/detail/penguinharness-browser/dodgfhpcbmkjfcbgnoidablfgjjhhmgp) 让 Agent 在你自己的 Chrome 里操控你交给它们的标签页。

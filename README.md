@@ -226,6 +226,11 @@ cd penguin-install
 
 </details>
 
+### One-click deploy
+
+<a href="https://repocloud.io/details/PenguinHarness/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/penguinharness"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ### Chrome extension (optional)
 
 [PenguinHarness Browser](https://chromewebstore.google.com/detail/penguinharness-browser/dodgfhpcbmkjfcbgnoidablfgjjhhmgp) lets agents drive the tabs you hand them in your own Chrome.
